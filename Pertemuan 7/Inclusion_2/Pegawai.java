@@ -1,3 +1,9 @@
+/**
+  * File : Pegawai.java 07/05/2023
+  * Penulis : Zhafira Amanda
+  * Deskripsi : SuperClass dari kelas Manajer dan Programmer
+ **/
+
 public class Pegawai {
     private String nama;
     private int gajiPokok = 5000000;
