@@ -1,3 +1,9 @@
+/**
+  * File : Sewa.java 03/05/2023
+  * Penulis : Zhafira Amanda
+  * Deskripsi : Kelas MSewa
+ **/
+
 public class Sewa {
 	public static void main(String[] args){
 		Vehicle kendaraan = new Vehicle();
