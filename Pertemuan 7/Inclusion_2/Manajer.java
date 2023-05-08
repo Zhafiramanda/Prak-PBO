@@ -1,3 +1,9 @@
+/**
+  * File : Manajer.java 07/05/2023
+  * Penulis : Zhafira Amanda
+  * Deskripsi : Kelas Manajer yang merupakan turunan dari kelas Pegawai
+ **/
+
 public class Manajer extends Pegawai {
     private int tunjangan = 700000;
 
