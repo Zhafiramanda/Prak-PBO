@@ -20,3 +20,7 @@ public class BangunDatarGeneric<T1 extends BangunDatar>{
 	}
 }
 
+//Salah satu cara untuk memberikan nama yang lebih deskriptif kepada parameter generik adalah dengan mengganti karakter 'T' dengan karakter lain,
+//misalnya T1, T2, T1234. Pendekatan ini dimaksudkan untuk memberikan fleksibilitas 
+//dalam penggunaan data dan juga untuk membedakan ketika ada lebih dari satu parameter generik dalam kelas tersebut.
+
